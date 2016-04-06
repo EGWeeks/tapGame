@@ -1,6 +1,6 @@
 # H1 Apoc-A-Flop
 
-(www/img/apocaflopmain.png)
+(/www/img/apocaflopmain.png)
 
 
 # H3 Description
@@ -8,21 +8,21 @@ This game takes the original Flappy Bird and places him in a post-apocalyptic wo
 
 # H3 Technologies
 
-Client
-* AngularJS
-* Ionic
-* Phaser
-* HTML
-* CSS
-* HTML
-* JWT
-Server
-* Node.js
-* Express
-* PG w/KNEX
-* BCrypt/JWT
+* Client
+	* AngularJS
+	* Ionic
+	* Phaser
+	* HTML
+	* CSS
+	* HTML
+	* JWT
+* Server
+	* Node.js
+	* Express
+	* PG w/KNEX
+	* BCrypt/JWT
 
 
-(www/img/gameplay.png)
+(/www/img/gameplay.png)
 
-(www/img/highscores.png)
+(/www/img/highscores.png)
