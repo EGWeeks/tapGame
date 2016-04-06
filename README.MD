@@ -1,12 +1,12 @@
-# H1 Apoc-A-Flop
+# Apoc-A-Flop
 
-(/www/img/apocaflopmain.png)
+![main](/www/img/apocaflopmain.png)
 
 
-# H3 Description
+### Description
 This game takes the original Flappy Bird and places him in a post-apocalyptic world. It utilizes web technologies and implements them with the Ionic platform. Made for iOS, ApocaFlop is a challenging game that is simple enough for all ages.
 
-# H3 Technologies
+### Technologies
 
 * Client
 	* AngularJS
@@ -23,6 +23,6 @@ This game takes the original Flappy Bird and places him in a post-apocalyptic wo
 	* BCrypt/JWT
 
 
-(/www/img/gameplay.png)
+![gameplay](/www/img/gameplay.png)
 
-(/www/img/highscores.png)
+![highscores](/www/img/highscores.png)
